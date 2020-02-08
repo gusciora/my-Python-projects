@@ -1,1 +1,2 @@
-#Login functionality in Python
+#MyApp
+Login functionality in Python
