@@ -52,30 +52,3 @@ def decision():
             decision()
 
 decision()
-
-
-
-#print(new_acc("arekk","123"))
-# with open("credentials.txt", "r") as db:
-#     dic = eval(db.read())
-#     print(dic)
-#     print(type(dic))
-#     login = str(input("Enter your login: "))
-#     password = str(input("Enter your passowrd: "))
-
-#     if login in dic.keys():
-#         if password == dic.get(login):
-#             print("You have successfully logged in.")
-#         else:
-#             print("Password is incorrect.")
-
-
-"""with open("credentials.txt", "w") as db:
-    login = input("Enter your login: ")
-    password = input("Enter your passowrd: ")
-
-    dic[login] = password
-    print(dic)
-
-    db.write(str(dic))
-    db.close()"""
